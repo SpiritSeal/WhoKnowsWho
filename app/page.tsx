@@ -14,6 +14,20 @@ export default function Home() {
       </div>
 
       <KnowledgeGrid />
+
+      <footer className="mt-8 text-center text-sm">
+        <p>
+          Proompted by{" "}
+          <a
+            href="https://github.com/SpiritSeal/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary"
+          >
+            Saketh Reddy
+          </a>
+        </p>
+      </footer>
     </main>
   )
 }
