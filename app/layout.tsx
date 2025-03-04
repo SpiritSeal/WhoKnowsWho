@@ -8,9 +8,8 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Who Knows Who? - Discord Community",
-  description: "See who knows who in your Discord community",
-    generator: 'v0.dev'
+  title: "CS Group: Who Knows Who?",
+  description: "Mark who you know from the CS Group Discord Server.",
 }
 
 export default function RootLayout({
