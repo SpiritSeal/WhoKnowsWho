@@ -25,6 +25,13 @@ export default function Home() {
             className="text-primary"
           >
             Saketh Reddy
+          </a> -- <a
+            href="https://github.com/SpiritSeal/WhoKnowsWho"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-primary"
+          >
+            Source Code
           </a>
         </p>
       </footer>
